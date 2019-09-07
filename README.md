@@ -1,5 +1,5 @@
 # hellovue
-
+是对Vue3.0API的尝试，目前Vue.js3.0尚未发布，有些内容还有待看其最终发布情况而定。
 ## Project setup
 ```
 npm install
